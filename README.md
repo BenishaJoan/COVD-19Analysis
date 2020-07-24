@@ -1,1 +1,1 @@
-# COVD-19Analysis
+# COVID-19 Analysis
